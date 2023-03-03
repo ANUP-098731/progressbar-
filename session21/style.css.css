@@ -1,0 +1,21 @@
+#myprogressbar{
+    width: 100%;
+    /* height: 30px; */
+    padding: 40px 0px;
+    position: realtive;
+    background-color: whitesmoke;
+}
+#mybar{
+    background-color: green;
+    width: 10px;
+    padding: 40px 0px;
+    /* height: 30px; */
+    display: flex;
+    justify-content: end ;
+    position: absolute;
+    
+}
+#p1{
+    position: absolute;
+    font-size: 40px;
+}
